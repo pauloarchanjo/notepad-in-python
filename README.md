@@ -14,13 +14,13 @@ A simple notepad application developed in Python.
 2. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/notepad-python.git
+    git clone https://github.com/your-username/notepad-in-python.git
     ```
 
 3. Navigate to the project directory:
 
     ```bash
-    cd notepad-python
+    cd notepad-in-python
     ```
 
 4. Run the Notepad:
